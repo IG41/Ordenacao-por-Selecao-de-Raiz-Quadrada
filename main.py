@@ -58,11 +58,6 @@ def sqrt_sort_heap(array):
             heapq.heappush(heap, (next_val, part_index, idx + 1))
     return aux_vector
 
-def part_to_heap(part):
-    heap = part[:]
-    heapq.heapify(heap)
-    return heap
-
 def criar_entrada(n):
   random_values = np.random.randint(0, n, n-1)
   entrada = np.arange(n-1) + random_values
