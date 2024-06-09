@@ -1,4 +1,4 @@
-📚 README: Ordenação por Seleção de Raiz Quadrada:
+📚 Ordenação por Seleção de Raiz Quadrada:
 
 ## 🚀 Introdução
 
